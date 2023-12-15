@@ -1,0 +1,9 @@
+{
+	"name": "adf-vbprani-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7132a69e-a8d1-4040-8f25-015c5b07d1c5",
+		"tenantId": "9fbf4e05-0813-43ef-b12f-2cf5212d8674"
+	}
+}
